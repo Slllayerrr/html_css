@@ -1,0 +1,66 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+#main-title-id {
+    color: blueviolet;
+}
+
+.link {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.main-title {
+    color: #572727;
+    font-size: 44px;
+    line-height: 48px;
+    font-weight: lighter;
+}
+
+.main-title-about {
+    color: red;
+}
+
+.text {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987
+}
+
+.subtitle {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 80px;
+}
+
+.picture {
+    border-radius: 10px;
+    width: 250px;
+}
+
+.input {
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
